@@ -1,10 +1,13 @@
+#udp client chat
+
 import select
 import sys
 import socket
 
 def main():
-    udp_s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    udp_s.bind(("127.0.0.1", 1234))
+    udp_s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    udp_s.bind(("127.0.0.1", 0))
+    server_addr = ("127.0.0.1", 1234)
 
     while 1:
         rsocks = select.select([udp_s, sys.stdin, ], [], [])[0]

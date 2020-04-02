@@ -1,10 +1,12 @@
+#!/usr/bin/python3
 # encoding=utf-8
 #servidor tcp
+
 import socket
 
 def main():
     tcp_s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    tcp_s.bind( ("127.0.0.1", 1234))
+    tcp_s.bind( ("127.0.0.1", 1235))
 
     #maximo de 1 cliente à espera de aceitacao
 

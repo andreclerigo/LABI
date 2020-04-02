@@ -1,4 +1,4 @@
-#client udp
+#client udp para server
 import socket
 
 def main():
