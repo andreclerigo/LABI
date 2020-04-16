@@ -6,7 +6,8 @@ import socket
 
 def main():
     tcp_s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    tcp_s.bind( ("127.0.0.1", 1235))
+    adress = ("127.0.0.1", 1235)
+    tcp_s.bind( adress )
 
     #maximo de 1 cliente à espera de aceitacao
 

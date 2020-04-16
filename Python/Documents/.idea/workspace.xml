@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a35201e-c95e-4772-8594-0673de137c09" name="Default Changelist" comment="" />
+    <list default="true" id="7a35201e-c95e-4772-8594-0673de137c09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Communication/.idea/Communication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Communication/.idea/Communication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Communication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Communication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Communication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Communication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Communication/15_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Communication/15_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Communication/15_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Communication/15_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Documents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Documents.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/b64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/cifradecifra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/client_tcp_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/common_comm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/server_tcp_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/tcp_skeleton.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +30,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1Zf9c12hgnVIqftuTr0k3WzubvQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testesedepuracao" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../andre/repos/codeua/labi2020-ap-g1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.16_4">
@@ -138,9 +159,6 @@
       <item itemvalue="Python.csv_temp" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="showServicesTree" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,10 +185,10 @@
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
     <state x="710" y="361" width="567" height="396" key="#com.intellij.fileTypes.FileTypeChooser/77.32.1843.1048@77.32.1843.1048" timestamp="1585219383673" />
-    <state x="781" y="331" width="424" height="490" key="FileChooserDialogImpl" timestamp="1585526265283">
+    <state x="781" y="331" width="424" height="490" key="FileChooserDialogImpl" timestamp="1586447751015">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state x="781" y="331" width="424" height="490" key="FileChooserDialogImpl/77.32.1843.1048@77.32.1843.1048" timestamp="1585526265283" />
+    <state x="781" y="331" width="424" height="490" key="FileChooserDialogImpl/77.32.1843.1048@77.32.1843.1048" timestamp="1586447751015" />
     <state width="1820" height="274" key="GridCell.Tab.0.bottom" timestamp="1585223792146">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>

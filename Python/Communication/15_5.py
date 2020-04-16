@@ -5,7 +5,8 @@ def main():
     tcp_s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     tcp_s.bind(("127.0.0.1", 0))
     #Ligar ao servidor
-    tcp_s.connect(("127.0.0.1", 1235))
+    adress = ("127.0.0.1", 1235)
+    tcp_s.connect( adress )
     while 1:
         str_data = input("Mensagem: ")
         b_data = str_data.encode("utf-8")

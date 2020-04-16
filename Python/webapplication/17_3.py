@@ -12,6 +12,7 @@ class Node(object):
 class Root(object):
     def __init__(self):
         self.node = Node()
+        self.teste= Node()
 
     @cherrypy.expose
     def index(self):

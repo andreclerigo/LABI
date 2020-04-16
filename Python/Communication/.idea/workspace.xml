@@ -4,7 +4,19 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20982d3a-9e51-4449-8d65-6ceaa72c44df" name="Default Changelist" comment="" />
+    <list default="true" id="20982d3a-9e51-4449-8d65-6ceaa72c44df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Communication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Communication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/15_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/15_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/b64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/cifradecifra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/client_tcp_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/common_comm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/server_tcp_skeleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proj2/tcp_skeleton.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,16 +37,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server_udp.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents" />
   </component>
-  <component name="RunManager" selected="Python.server_udp">
+  <component name="RunManager" selected="Python.15_4">
     <configuration name="15_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Communication" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,9 +225,6 @@
       <item itemvalue="Python.server_udp" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="showServicesTree" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -256,30 +265,30 @@
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
     <state x="969" y="132" width="851" height="848" key="DiffContextDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1585615621313" />
-    <state x="781" y="314" width="424" height="490" key="FileChooserDialogImpl" timestamp="1585823226124">
+    <state x="781" y="314" width="424" height="490" key="FileChooserDialogImpl" timestamp="1586392638370">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state x="781" y="314" width="424" height="490" key="FileChooserDialogImpl/77.32.1843.1048@77.32.1843.1048" timestamp="1585823226124" />
-    <state width="1018" height="274" key="GridCell.Tab.0.bottom" timestamp="1585823720937">
+    <state x="781" y="314" width="424" height="490" key="FileChooserDialogImpl/77.32.1843.1048@77.32.1843.1048" timestamp="1586392638370" />
+    <state width="1820" height="274" key="GridCell.Tab.0.bottom" timestamp="1586391101366">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state width="1018" height="274" key="GridCell.Tab.0.bottom/77.32.1843.1048@77.32.1843.1048" timestamp="1585823720937" />
-    <state width="1018" height="274" key="GridCell.Tab.0.center" timestamp="1585823720936">
+    <state width="1820" height="274" key="GridCell.Tab.0.bottom/77.32.1843.1048@77.32.1843.1048" timestamp="1586391101366" />
+    <state width="1820" height="274" key="GridCell.Tab.0.center" timestamp="1586391101366">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state width="1018" height="274" key="GridCell.Tab.0.center/77.32.1843.1048@77.32.1843.1048" timestamp="1585823720936" />
-    <state width="1018" height="274" key="GridCell.Tab.0.left" timestamp="1585823720936">
+    <state width="1820" height="274" key="GridCell.Tab.0.center/77.32.1843.1048@77.32.1843.1048" timestamp="1586391101366" />
+    <state width="1820" height="274" key="GridCell.Tab.0.left" timestamp="1586391101365">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state width="1018" height="274" key="GridCell.Tab.0.left/77.32.1843.1048@77.32.1843.1048" timestamp="1585823720936" />
-    <state width="1018" height="274" key="GridCell.Tab.0.right" timestamp="1585823720937">
+    <state width="1820" height="274" key="GridCell.Tab.0.left/77.32.1843.1048@77.32.1843.1048" timestamp="1586391101365" />
+    <state width="1820" height="274" key="GridCell.Tab.0.right" timestamp="1586391101366">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state width="1018" height="274" key="GridCell.Tab.0.right/77.32.1843.1048@77.32.1843.1048" timestamp="1585823720937" />
-    <state x="654" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1585824214065">
+    <state width="1820" height="274" key="GridCell.Tab.0.right/77.32.1843.1048@77.32.1843.1048" timestamp="1586391101366" />
+    <state x="654" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1586388149217">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
-    <state x="654" y="383" key="com.intellij.ide.util.TipDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1585824214065" />
+    <state x="654" y="383" key="com.intellij.ide.util.TipDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1586388149217" />
     <state x="1162" y="476" width="464" height="166" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585822878203">
       <screen x="77" y="32" width="1843" height="1048" />
     </state>
