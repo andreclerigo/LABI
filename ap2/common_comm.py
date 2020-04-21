@@ -12,7 +12,7 @@ def exact_send( dst, data ):
         while len(data) != 0:
             bytes_sent = dst.send( data )
             data = data[bytes_sent : ]
-            return True
+        return True
     except OSError:
         return False
 
@@ -33,6 +33,12 @@ def exact_recv( src, count ):
         count -= len(new_data)
 
     return data
+
+##########################################################################
+###   ^                NAO É PARA ALTERAR                         ^    ###
+###   | FUNCOES QUE VALIDAM OS DADOS RECEBIDOS E ENVIADOS PELO SV |    ###
+##########################################################################
+
 
 #
 # Universal function to send a dictionary message to a TCP socket.

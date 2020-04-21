@@ -1,3 +1,8 @@
+#
+# USADO COMO EXEMPLO PARA UM SOCKET TCP
+# NAO ALTERAR NADA NESTE FICHEIRO
+#
+
 s = socket.socket( socket.AF_INET, socket.SOCK_STREAM )
 s.bind( ... )
 s.listen()
