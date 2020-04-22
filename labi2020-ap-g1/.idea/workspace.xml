@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b83b126-3afb-4a7a-b5b8-5973ab321f85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aHMgydl0Iwyw6TSH1tRvvxn0V6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client_tcp.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunManager" selected="Python.server_tcp">
+    <configuration name="cifradecifra" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/Python-3.8.1/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cifradecifra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_tcp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client_tcp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_tcp_skeleton" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/Python-3.8.1/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client_tcp_skeleton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="common_comm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/Python-3.8.1/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common_comm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_tcp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_tcp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_tcp_skeleton" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/Python-3.8.1/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_tcp_skeleton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tcp_skeleton" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="labi2020-ap-g1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/opt/Python-3.8.1/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tcp_skeleton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cifradecifra" />
+      <item itemvalue="Python.client_tcp_skeleton" />
+      <item itemvalue="Python.common_comm" />
+      <item itemvalue="Python.server_tcp_skeleton" />
+      <item itemvalue="Python.server_tcp" />
+      <item itemvalue="Python.client_tcp" />
+      <item itemvalue="Python.tcp_skeleton" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b83b126-3afb-4a7a-b5b8-5973ab321f85" name="Default Changelist" comment="" />
+      <created>1586388180257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586388180257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="213" width="1084" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587465104645">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state x="836" y="213" width="1084" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1587465104645" />
+    <state x="1161" y="263" width="424" height="590" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1586390176517">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state x="1161" y="263" width="424" height="590" key="#com.intellij.ide.macro.MacrosDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1586390176517" />
+    <state x="1218" y="297" width="309" height="522" key="EnvironmentVariablesDialog" timestamp="1586390183689">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state x="1218" y="297" width="309" height="522" key="EnvironmentVariablesDialog/77.32.1843.1048@77.32.1843.1048" timestamp="1586390183689" />
+    <state x="1161" y="314" width="424" height="490" key="FileChooserDialogImpl" timestamp="1587465101019">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state x="1161" y="314" width="424" height="490" key="FileChooserDialogImpl/77.32.1843.1048@77.32.1843.1048" timestamp="1587465101019" />
+    <state width="1820" height="273" key="GridCell.Tab.0.bottom" timestamp="1587221847925">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state width="1820" height="273" key="GridCell.Tab.0.bottom/77.32.1843.1048@77.32.1843.1048" timestamp="1587221847925" />
+    <state width="1820" height="273" key="GridCell.Tab.0.center" timestamp="1587221847924">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state width="1820" height="273" key="GridCell.Tab.0.center/77.32.1843.1048@77.32.1843.1048" timestamp="1587221847924" />
+    <state width="1820" height="273" key="GridCell.Tab.0.left" timestamp="1587221847924">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state width="1820" height="273" key="GridCell.Tab.0.left/77.32.1843.1048@77.32.1843.1048" timestamp="1587221847924" />
+    <state width="1820" height="273" key="GridCell.Tab.0.right" timestamp="1587221847925">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state width="1820" height="273" key="GridCell.Tab.0.right/77.32.1843.1048@77.32.1843.1048" timestamp="1587221847925" />
+    <state x="487" y="191" width="1022" height="736" key="SettingsEditor" timestamp="1586390374001">
+      <screen x="77" y="32" width="1843" height="1048" />
+    </state>
+    <state x="487" y="191" width="1022" height="736" key="SettingsEditor/77.32.1843.1048@77.32.1843.1048" timestamp="1586390374001" />
+  </component>
+</project>
