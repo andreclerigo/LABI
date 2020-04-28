@@ -1,1 +1,1 @@
-# LABI
+# Laboratório de Informática
