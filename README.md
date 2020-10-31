@@ -1,1 +1,1 @@
-# Laboratório de Informática
+# Laboratórios de Informática
