@@ -1,14 +1,14 @@
 import string
 import sys
 
-'''
+
 class hello:
     print("Gosto de Labi")
     print("Adoro LABI")
     sys.stdout.write("Gosto de LabI")
     sys.stdout.write("Gosto de LabI\n")
    
-
+'''
     def funcao(a):
         print(a)
         if (a):
